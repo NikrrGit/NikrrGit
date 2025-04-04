@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil 
 - 👀 I’m interested in DataEngineering and Machine Larning
-- 🌱 I’m currently learning Computational Linguistics/ML
+- 🌱 I’m currently learning ML & Computational Linguistics
 - 💞️ I’m looking to collaborate on projects related to DE/ML/AI
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
