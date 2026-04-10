@@ -68,7 +68,7 @@ End-to-end traffic analytics pipeline built with Kafka, Spark Structured Streami
 
 ---
 
-### ☁️ [DE-Boto3 Project](https://github.com/NikrrGit)
+### ☁️ [DE-Boto3 Project](https://github.com/NikrrGit/DE-Boto3Project)
 > *Turning raw S3 data into actionable sales intelligence — fast.*
 
 Engineered a Python-based ETL pipeline wiring **AWS S3 + PySpark** to a MySQL warehouse, achieving a 30% boost in processing speed and 20% reduction in data latency, with a custom PySpark aggregation framework for sales performance analytics.
