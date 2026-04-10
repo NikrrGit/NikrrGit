@@ -59,12 +59,12 @@ I'm a **Data Engineer** based in Tübingen, Germany, specialising in building **
 
 ## 🚀 Top Projects
 
-### 📚 [Airflow-ETL NYC Taxi](https://github.com/NikrrGit)
-> *Because 3 million records deserve a pipeline that won't fall over.*
+### 📚 [Nexus](https://github.com/NikrrGit/Nexus)
+> *Because Urban traffic data is noisy, fast-moving, and difficult to use directly for analytics. Raw streaming events are not enough for decision-making because they need validation, structure, and business-friendly models before they can support monitoring or dashboards.*
 
-Built a cloud-native ingestion and transformation pipeline on **GCP (BigQuery + Cloud Storage)** that processes 3M+ NYC taxi records with automated retry logic and task dependencies — reducing manual errors by 40% and improving reliability by 25%.
+End-to-end traffic analytics pipeline built with Kafka, Spark Structured Streaming, Delta Lake, and a Streamlit dashboard
 
-`Python` `Apache Airflow` `Docker` `GCP BigQuery` `Pandas`
+`Python` `Apache Kafka` `Docker` `Delta Lake` `Spark`
 
 ---
 
