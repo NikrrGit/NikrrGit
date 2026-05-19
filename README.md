@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nikhil Rai 🚀
-### Data Engineer · Pipeline Architect · AI Systems Builder
+### AI Native Data Engineer · Pipeline Architect · AI Systems Builder
 
 *Building fault-tolerant, high-throughput data systems — from raw ingestion to semantic search.*
 
