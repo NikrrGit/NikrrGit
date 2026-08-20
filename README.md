@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nikhil Rai 🚀
-### AI Native Data Engineer · AI Systems Builder
+### AI Infrastructure Engineer
 
 *Building fault-tolerant, high-throughput data systems — from raw ingestion to semantic search.*
 
@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI Data Engineer**, specialising in building **resilient ETL/ELT pipelines**, **LLM-powered classification systems**, and **vector embedding infrastructure** at scale.
+I'm an **AI Infrastructure Engineer**, specialising in building **resilient ETL/ELT pipelines**, **LLM-powered classification systems**, and **vector embedding infrastructure** at scale.
 
 - 🔭 Currently building data pipelines @ **SkAI** and previously @ **Cluster of Excellence – Machine Learning for Science**
 - ⚙️ I care about **zero data loss**, **99%+ completion rates**, and **pipelines that heal themselves**
