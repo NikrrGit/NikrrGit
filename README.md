@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nikhil Rai 🚀
+# Hi, I'm Nik Rai 🚀
 ### AI Infrastructure Engineer
 
 *Building fault-tolerant, high-throughput data systems — from raw ingestion to semantic search.*
