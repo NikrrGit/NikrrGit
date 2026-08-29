@@ -100,7 +100,6 @@ Engineered a Python-based ETL pipeline wiring **AWS S3 + PySpark** to a MySQL wa
 | 💼 **LinkedIn** | [linkedin.com/in/nikrrai](https://linkedin.com/in/nikrrai) |
 | 🐙 **GitHub** | [github.com/NikrrGit](https://github.com/NikrrGit) |
 
-*Open to Data Engineering roles, collaborations, and interesting pipeline problems.*
 
 </div>
 
