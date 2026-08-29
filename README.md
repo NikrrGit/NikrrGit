@@ -96,8 +96,7 @@ Engineered a Python-based ETL pipeline wiring **AWS S3 + PySpark** to a MySQL wa
 
 | | |
 |---|---|
-| 📍 **Location** | Tübingen, Germany |
-| 📧 **Email** | [nikhilrajrai5@hotmail.com](mailto:nikhilrajrai5@hotmail.com) |
+
 | 💼 **LinkedIn** | [linkedin.com/in/nikrrai](https://linkedin.com/in/nikrrai) |
 | 🐙 **GitHub** | [github.com/NikrrGit](https://github.com/NikrrGit) |
 
