@@ -17,10 +17,7 @@
 
 I'm an **AI Infrastructure Engineer**, specialising in building **resilient pipelines**, **LLM-powered classification systems**, and **vector embedding infrastructure** at scale.
 
-- 🔭 Currently building data pipelines @ **SkAI** and previously @ **Cluster of Excellence – Machine Learning for Science**
-- ⚙️ I care about **zero data loss**, **99%+ completion rates**, and **pipelines that heal themselves**
-- 🌱 Currently deepening expertise in **on-premise LLM inference** and **semantic search systems**
-
+- 🔭 Currently @ **SkAI** 
 ---
 
 ## 🛠️ Skills & Tools
