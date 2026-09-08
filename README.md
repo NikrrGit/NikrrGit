@@ -3,7 +3,7 @@
 # Hi, I'm Nik Rai 🚀
 ### AI Infrastructure Engineer
 
-*Building fault-tolerant, high-throughput data systems — from raw ingestion to semantic search.*
+*Building fault-tolerant, high-throughput AI data systems — from raw ingestion to semantic search.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikrrai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikrrGit)
